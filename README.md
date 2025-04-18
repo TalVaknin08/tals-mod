@@ -1,4 +1,4 @@
-# tals-mod
+# Tal-Vaknins-Mod
 A ROM hack of "Super Mario Advance". The first SMA hack that is not an improvement/fixing.
 This hack lets you play as Eric Cartman, Luigi morphing into Tal (the person that did this hack), Peach & "Pizza Steve" headed Toad.
 Rescue the Subcons from the great "Humus" Wart and explore the modified Subcon Kingdom.
